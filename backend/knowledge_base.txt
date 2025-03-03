@@ -1,0 +1,55 @@
+Question: “What is the purpose of the AI and Data Science Club?”
+A: “Explore cutting-edge technologies and collaborate with like-minded students at UNLV, come learn with us!”
+Question: “How often does the club meet?”
+A: “We meet every Wednesday at 5:30pm.”
+Question: “Who can join the AI and Data Science Club?”
+A: “Anyone with an interest in artificial intelligence and data science is welcome to join.”
+Question: “Are there any membership fees?”
+A: “No, membership is free for all students!”
+Question: “What kind of activities does the club organize?”
+A: “We organize workshops, guest lectures, hackathons, kaggle competitions and group projects.”
+Question: “Do I need to have prior experience in AI to join?”
+A: “No, members of all skill levels are welcome. We provide learning resources for beginners.”
+Question: “Where are the club meetings held?”
+A: “Meetings are held in AEB (Advanced Engineering Building) room 150”
+Question: “How can I become an officer in the club?”
+A: “Officers are appointed in the club, you can apply to become an officer at any time but you must have been active and have a goal in mind!”
+Question: “Does the club participate in competitions?”
+A: “Yes, we plan to participate in regional and national AI and data science competitions in the future.”
+Question: “Can non-students attend meetings?”
+A: “Non-students can attend as guests but are not eligible for membership in the involvement center.”
+Question: “What resources does the club provide?”
+A: “We provide access to online courses, a leveling system, tools for hands-on practice, and mentorship from industry professionals.”
+Question: “How do I sign up for the club?”
+A: “You can sign up by visiting us at the involvement center, or you can attend a meeting or contact an officer in the club for next steps.”
+Question: “Are there any collaborative projects I can join?”
+A: “Yes, we have several ongoing projects, and members are encouraged to start new ones.”
+Question: “What topics are covered in the workshops?”
+A: “Workshops cover topics like machine learning, neural networks, Python for data analysis, , AI Agents and more.”
+Question: “How can I propose a workshop or a speaker?”
+A: “Members can propose ideas anytime in the all chat or by messaging an officer.”
+Question: “What are the benefits of joining the club?”
+A: “Benefits include networking opportunities, hands-on project experience, and access to exclusive workshops.”
+Question: “Who leads the organization?”
+A: “Thanos, the president and Faris, the vice president help lead the organization with the officers”
+Question: “Does the club have partnerships with tech companies?”
+A: “The club does not have any partnerships currently.”
+Question: “Can I lead a project within the club?”
+A: “Absolutely! We encourage members to lead projects that interest them.”
+Question: “Are there club officers, and what are their roles?”
+A: “Yes, club officers include President, Vice President, Outreach, Webmaster, and Member-Development & Workshops and Development.”
+Question: “What is the best way to stay updated about club activities?”
+A: “Follow us on our social media channels and join our discord!”
+Question: “Can members organize their own events?”
+A: “Yes, members can organize study groups, discussion rounds, or informal meetups.”
+Question: “Does the club offer any certifications or recognitions?”
+A: “We do not currently provide certificates for active participation and leadership in club activities.”
+Question: “What do I do if I have a project idea?”
+A: “Present your idea during one of our meetings, and we can help you gather a team and resources.”
+Question: “Who should I contact for academic advice related to AI and data science?”
+A: “Our faculty advisor, Professor Fonseca, is available for academic and career advice in AI and data science.”
+Question: “What if I miss a meeting?”
+A: “No worries! We meet every week and you can DM anyone to catch up if you missed anything.”
+Question: “Can I access club resources remotely?”
+A: “Yes, members can access digital resources and participate in our discord.
+
