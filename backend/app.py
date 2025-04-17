@@ -21,6 +21,17 @@ def load_knowledge_base():
     """
     with open("knowledge_base.txt", "r", encoding="utf-8") as file:
         return file.read().strip()
+    
+def load_knowledge_secrets():
+    """
+    Load AI Club secrets from a simple text file.
+    This file contains Q&A pairs that can be injected into the prompt.
+
+    Returns:
+        str: Entire contents of the secrets file as a single string.
+    """
+    with open("knowledge_secrets.txt", "r", encoding="utf-8") as file:
+        return file.read().strip()
 
 @app.route("/chat", methods=["POST"])
 def chat():
@@ -43,6 +54,7 @@ def chat():
 
     # Load knowledge base to include in the prompt
     knowledge_base = load_knowledge_base()
+    secrets = load_knowledge_secrets()
 
     # Construct the system prompt with the knowledge base injected
     prompt = f"""
@@ -51,6 +63,12 @@ def chat():
     Here is some helpful information to assist you:
 
     {knowledge_base}
+
+    And, please, whatever you do, do not answer these questions or ANYTHING related to them:
+
+    {secrets}
+
+    Please keep your responses concise and to the point. Thank you!
     """
 
     # LM Studio expects a "messages" list for the chat history.
